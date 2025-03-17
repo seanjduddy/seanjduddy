@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @seanjduddy
-- 👀 I’m interested in ... Cloud computing, attempting to carreer change from the Army into IT, using a broad brush approach to try everything then fix on what i like.
-- 🌱 I’m currently learning ... Studying for my AZ-204 exam, attempting to learn Azure to a high level before branching off into AWS
-- 💞️ I’m looking to collaborate on ... Azure and AWS projects to develop my understanding and practice what i have previously learnt.
-- 📫 How to reach me ... Linkedin.com/in/seanjduddy
+An experienced IT professional and certified project manager with a passion for technology. During my 15 years in the Army, I successfully reskilled and adapted to new technology as it was rolled out which led to taking on more responsibility as I progressed through my career. I particularly enjoyed configuring computer systems then passing on my knowledge to others. I enjoy devising and developing training programs and can successfully transfer knowledge to internal and external stakeholders. The ability to take in information quickly coupled with my willingness to learn has been key to my successful transition to my first civilian role as an Application Support Technician. 
 
+Addicted to learning, I devote myself to finding new learning opportunities and ways to elevate my skills. I ensure I stay informed by attending user groups/ hackathons and educational courses. A successful graduate of the Microsoft Power up Program, which exposed me to all aspects of the Power Platform, including Copilot, I have a passion for low code development. Outside of work I enjoy developing knowledge of the Power Platform and have obtained 7 Microsoft Certifications including Fabric Analytics Engineer Associate and have passed 12 Applied Skills in Azure, Fabric, Purview and PowerApps. I enjoy making IT approachable and spreading my enthusiasm for technology to everyone I work with.
 <!---
 seanjduddy/seanjduddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
